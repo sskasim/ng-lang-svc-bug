@@ -1,0 +1,46 @@
+.mat-toolbar-row,
+.mat-toolbar-single-row {
+  padding: 0;
+  height: 80px;
+}
+
+// .app-header-container {
+//   // margin-bottom:-3px;
+// }
+
+.logo-container {
+  min-width: 82px;
+  background-color: red;
+  padding-top: 7px;
+  padding-left: 7px;
+}
+.app-logo {
+  height: 60px;
+}
+
+.app-logo-single {
+  height: 55px;
+  width: 275px;
+  margin-left: 3px;
+}
+
+.app-name-container {
+  color: whitesmoke;
+  font-size: 40px;
+  font-weight: 200;
+  width: 100%;
+}
+.app-gbu-container {
+  color: whitesmoke;
+  opacity: 0.85;
+  margin-left: 5px;
+  width: 100%;
+
+  .app-gbu {
+    color: whitesmoke;
+    font-size: 20px;
+    margin-top: -28px;
+    font-weight: 200;
+    opacity: 0.5;
+  }
+}
